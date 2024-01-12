@@ -21,7 +21,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## Fabrique abstraite : Maxence (3/23)
 
-## Adaptateur : (4/23)
+## Adaptateur : Hugo (4/23)
 
 ## Pont : (5/23)
 
