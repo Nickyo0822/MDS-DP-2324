@@ -18,3 +18,45 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 ## Singleton : Yannick (1/23)
 
 ## Fabrique : Evhan (2/23)
+
+## Fabrique abstraite : (3/23)
+
+## Adaptateur : (4/23)
+
+## Pont : (5/23)
+
+## Monteur : (6/23)
+
+## Chaine de responsabilité : (7/23)
+
+## Commande : (8/23)
+
+## Composite : (9/23)
+
+## Décorateur : (10/23)
+
+## Façade : (11/23)
+
+## Flyweight : (12/23)
+
+## Interpreter : (13/23)
+
+## Iterator : (14/23)
+
+## Mediator : (15/23)
+
+## Memento : (16/23)
+
+## Observer : (17/23)
+
+## Prototype : (18/23)
+
+## Proxy : (19/23)
+
+## State : (20/23)
+
+## Strategy : (21/23)
+
+## Template method : (22/23)
+
+## Visitor : (23/23)
