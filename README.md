@@ -47,7 +47,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## Memento : (16/23)
 
-## Observer : (17/23)
+## Observer : Hugo (17/23)
 
 ## Prototype : (18/23)
 
