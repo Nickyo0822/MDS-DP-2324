@@ -27,7 +27,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## Monteur : (6/23)
 
-## Chaine de responsabilité : (7/23)
+## Chaine de responsabilité : Hugo (7/23)
 
 ## Commande : Evhan (8/23)
 
