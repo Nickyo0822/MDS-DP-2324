@@ -33,7 +33,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## Composite : (9/23)
 
-## Décorateur : (10/23)
+## Décorateur : Yannick (10/23)
 
 ## Façade : (11/23)
 
