@@ -19,7 +19,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## Fabrique : Evhan (2/23)
 
-## Fabrique abstraite : (3/23)
+## Fabrique abstraite : Maxence (3/23)
 
 ## Adaptateur : (4/23)
 
