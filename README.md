@@ -29,7 +29,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## Chaine de responsabilité : (7/23)
 
-## Commande : (8/23)
+## Commande : Evhan (8/23)
 
 ## Composite : (9/23)
 
