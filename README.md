@@ -37,7 +37,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## Façade : (11/23)
 
-## Flyweight : (12/23)
+## ~~Flyweight : Hugo (12/23)~~
 
 ## Interpreter : (13/23)
 
