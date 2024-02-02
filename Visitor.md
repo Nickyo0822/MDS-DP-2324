@@ -79,7 +79,7 @@ echo "Aire totale : " . $calculateur->aireTotale . "\n";
 echo "Circonférence totale : " . $calculateur->circonferenceTotale . "\n";
 ```
 
-### Conséquences :
+### Conséquences
 
 #### Avantages :
 
