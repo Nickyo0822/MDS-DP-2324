@@ -86,7 +86,7 @@ Pour résoudre ce problème, on peut instancier l’attribut instance dès sa d�
 
 ## Adaptateur : Hugo (4/23)
 
-## Pont : (5/23)
+## Pont : Maxence (5/23)
 
 ## Monteur : (6/23)
 
