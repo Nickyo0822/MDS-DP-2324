@@ -53,7 +53,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## ~~Proxy : Yannick (19/23)~~
 
-## State : (20/23)
+## State Evhan: (20/23)
 
 ## ~~Strategy : Hugo (21/23)~~
 
