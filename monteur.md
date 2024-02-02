@@ -94,4 +94,4 @@ Avantages :
 - Principe ouvert/fermé. Possibilité d'introduire de nouveaux monteurs pour créer différentes représentations de produits sans altérer le code client existant. Ces nouveaux monteurs doivent respecter l'interface du monteur abstrait.
 
 Inconvénients :
-- La complexité générale du code augmente, car il est nécessaire de créer de nouvelles classes pour chaque variation de produit. Cependant, cela permet une meilleure gestion de la création d'objets complexes avec des représentations différentes.
+- La complexité générale du code augmente, car il est nécessaire de créer de nouvelles classes pour chaque variation de produit. Cependant, cela permet une meilleure gestion de la création d'objets complexes avec des représentations différentes. 

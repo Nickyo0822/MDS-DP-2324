@@ -86,3 +86,4 @@ remoteControl = new RemoteControl();
 remoteControl.setCommand(lightOnCommand);
 remoteControl.pressButton();  # Allume la lumière
 remoteControl.pressButton();  # Éteint la lumière (undo)
+ 
