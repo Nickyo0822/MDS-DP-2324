@@ -24,7 +24,7 @@
 
 ## ~~Décorateur : Yannick (10/23)~~
 
-## Façade : Maxence (11/23)
+## ~~Façade : Maxence (11/23)~~
 
 ## ~~Flyweight : Hugo (12/23)~~
 
@@ -34,7 +34,7 @@
 
 ## ~~Mediator : Hugo (15/23)~~
 
-## Memento : (16/23)
+## Memento : Maxence (16/23)
 
 ## ~~Observer : Hugo (17/23)~~
 
