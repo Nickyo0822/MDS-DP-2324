@@ -12,7 +12,7 @@
 
 ## ~~Adaptateur : Hugo (4/23)~~
 
-## Pont : (5/23)
+## ~~Pont : Yannick (5/23)~~
 
 ## ~~Monteur : Maxence (6/23)~~
 
@@ -24,21 +24,21 @@
 
 ## ~~Décorateur : Yannick (10/23)~~
 
-## Façade : Maxence (11/23)
+## ~~Façade : Maxence (11/23)~~
 
 ## ~~Flyweight : Hugo (12/23)~~
 
-## Interpreter : (13/23)
+## Interpreter : Evhan(13/23)
 
 ## Iterator : (14/23)
 
 ## ~~Mediator : Hugo (15/23)~~
 
-## Memento : (16/23)
+## Memento : Maxence (16/23)
 
 ## ~~Observer : Hugo (17/23)~~
 
-## Prototype : (18/23)
+## ~~Prototype : Yannick (18/23)~~
 
 ## ~~Proxy : Yannick (19/23)~~
 

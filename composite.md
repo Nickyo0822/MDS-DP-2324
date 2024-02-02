@@ -73,4 +73,4 @@ Avantages :
 - Principe ouvert/fermé. Possibilité d'ajouter de nouveaux types d'objets simples ou de composites sans altérer le code client existant. Ces nouveaux éléments doivent respecter l'interface commune.
 
 Inconvénients :
-- La complexité générale du code augmente légèrement.
+- La complexité générale du code augmente légèrement. 
