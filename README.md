@@ -227,7 +227,7 @@ echo "Prix: " . $gaufreAvecChocolatEtChantilly->getPrix() . "€\n";
 
 ## State : (20/23)
 
-## Strategy : (21/23)
+## Strategy : Hugo (21/23)
 
 ## Template method : (22/23)
 
