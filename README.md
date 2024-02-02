@@ -38,7 +38,7 @@
 
 ## ~~Observer : Hugo (17/23)~~
 
-## Prototype : (18/23)
+## Prototype : Yannick (18/23)
 
 ## ~~Proxy : Yannick (19/23)~~
 
