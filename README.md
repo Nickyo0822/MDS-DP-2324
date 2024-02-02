@@ -195,13 +195,13 @@ echo "Prix: " . $gaufreAvecChocolatEtChantilly->getPrix() . "€\n";
 
 ### Conséquences
 
-# Avantages :
+#### Avantages :
 
 - Flexibilité : Vous pouvez ajouter ou supprimer des fonctionnalités de manière dynamique en combinant différents décorateurs.
 - Réutilisabilité : Les classes de base restent inchangées, ce qui facilite la réutilisation du code existant.
 - Extensibilité : Vous pouvez ajouter de nouveaux décorateurs sans modifier les classes existantes, permettant une extension facile.
 
-# Inconvénients :
+#### Inconvénients :
 
 - Complexité accrue : L'ajout de nombreux décorateurs peut rendre le code complexe, en particulier lorsque la hiérarchie de classes devient profonde.
 - Redondance potentielle : Si plusieurs décorateurs ont des fonctionnalités similaires, cela peut entraîner une certaine redondance.
