@@ -8,6 +8,8 @@ Le design pattern Pont résout le problème de la séparation entre une abstract
 
 ### Solution
 
+![Diagramme UML](https://refactoring.guru/images/patterns/diagrams/bridge/structure-en.png?id=827afa4b40008dc29d26fe0f4d41b9cc)
+
 Le design pattern Pont utilise une structure de type "pont" où une interface (abstraction) possède une référence à une autre interface (implémentation). Cela permet à l'abstraction de déléguer l'implémentation à une classe concrète tout en restant indépendante des détails spécifiques de cette implémentation.
 
 ### Exemple

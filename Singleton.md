@@ -14,6 +14,8 @@ Mais si on n’utilise pas ce stratagème comment faire ? C’est simple il suff
 
 ### Solution
 
+![Diagramme UML](https://refactoring.guru/images/patterns/diagrams/singleton/structure-en.png?id=4e4306d3a90f40d74c7a4d2d2506b8ec)
+
 L’objectif est d’ajouter un contrôle sur le nombre d’instances que peut retourner une classe.
 
 La première étape consiste à empêcher les développeurs d’utiliser le ou les constructeur(s) de la classe pour l’instancier. Pour cela il suffit de déclarer privé tous les constructeurs de la classe. Attention dans certains langages une classe sans constructeur possède un constructeur implicite par défaut (c’est notamment le cas de Java). Il faut donc que celui-ci soit déclaré explicitement en privé.

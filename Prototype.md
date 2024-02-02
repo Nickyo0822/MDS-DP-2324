@@ -8,6 +8,8 @@ Le design pattern Prototype répond au problème de la création d'objets comple
 
 ### Solution
 
+![Diagramme UML](https://refactoring.guru/images/patterns/diagrams/prototype/structure.png?id=088102c5e9785ff45debbbce86f4df81)
+
 Le design pattern Prototype propose de créer des objets à partir de prototypes (objets existants) en les clonant. Il introduit une interface commune ou une classe abstraite (Prototype) avec une méthode de clonage. Les classes concrètes implémentent cette interface et fournissent leur propre logique de clonage. Ainsi, un client peut créer de nouveaux objets en copiant des prototypes sans connaître leurs classes spécifiques.
 
 ### Exemple

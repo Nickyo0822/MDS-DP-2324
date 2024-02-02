@@ -8,6 +8,8 @@ Le design pattern Visitor résout le problème d'ajouter de nouvelles opération
 
 ### Solution
 
+![Diagramme UML](https://refactoring.guru/images/patterns/diagrams/visitor/example.png?id=d66acd1b9096c47db17ab3bb82b54a59)
+
 Le design pattern Visitor consiste à définir une interface commune appelée "Visiteur" avec des méthodes spécifiques pour chaque type d'objet à visiter. Chaque classe concrète d'objet à visiter implémente une méthode accepter qui prend en paramètre un objet visiteur. L'objet visiteur, à son tour, implémente des méthodes spécifiques pour chaque type d'objet visité. Ainsi, les objets acceptent les visiteurs, permettant aux visiteurs d'accéder à leurs propriétés et d'effectuer des opérations spécifiques.
 
 ### Exemple

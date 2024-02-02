@@ -8,6 +8,8 @@ Le design pattern Proxy répond au problème de contrôle d'accès, de gestion d
 
 ### Solution
 
+![Diagramme UML](https://refactoring.guru/images/patterns/diagrams/proxy/example.png?id=ddb1402479562b9e2c776933cc861bed)
+
 Le design pattern Proxy consiste à introduire un objet de substitution (proxy) qui agit comme une interface intermédiaire pour un objet réel. Ce proxy peut effectuer des tâches supplémentaires, telles que la vérification des autorisations, le chargement paresseux, la mise en cache, etc., avant ou après d'appeler les méthodes de l'objet réel. Il permet de contrôler l'accès à l'objet réel tout en fournissant la même interface que cet objet.
 
 ### Exemple
