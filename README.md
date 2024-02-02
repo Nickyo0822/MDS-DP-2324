@@ -25,7 +25,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## ~~Pont : Maxence (5/23)~~
 
-## Monteur : (6/23)
+## ~~Monteur : Maxence (6/23)~~
 
 ## ~~Chaine de responsabilité : Hugo (7/23)~~
 
