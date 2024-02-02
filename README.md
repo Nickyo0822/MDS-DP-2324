@@ -12,7 +12,7 @@
 
 ## ~~Adaptateur : Hugo (4/23)~~
 
-## Pont : (5/23)
+## ~~Pont : Yannick (5/23)~~
 
 ## ~~Monteur : Maxence (6/23)~~
 
