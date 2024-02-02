@@ -23,7 +23,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## Adaptateur : Hugo (4/23)
 
-## Pont : (5/23)
+## Pont : Maxence (5/23)
 
 ## Monteur : (6/23)
 
@@ -55,7 +55,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## State : (20/23)
 
-## Strategy : (21/23)
+## Strategy : Hugo (21/23)
 
 ## Template method : (22/23)
 
