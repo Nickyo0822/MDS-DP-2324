@@ -231,4 +231,4 @@ echo "Prix: " . $gaufreAvecChocolatEtChantilly->getPrix() . "€\n";
 
 ## Template method : (22/23)
 
-## Visitor : (23/23)
+## Visitor : Yannick (23/23)
