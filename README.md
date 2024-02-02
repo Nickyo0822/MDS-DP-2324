@@ -46,6 +46,6 @@
 
 ## ~~Strategy : Hugo (21/23)~~
 
-## Template method : (22/23)
+## Template method : Evhan(22/23)
 
 ## ~~Visitor : Yannick (23/23)~~
