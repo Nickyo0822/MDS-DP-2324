@@ -5,7 +5,7 @@ Strategy
 La Stratégie (ou Strategy en anglais) est un patron de conception comportemental qui est utile lorsque vous avez plusieurs façons de faire quelque chose, et que vous souhaitez pouvoir choisir entre ces façons de façon flexible sans changer le code principal. Cela vous permet de séparer le comportement de votre programme en différentes stratégies interchangeables.
 
 # Solution : 
-![Diagramme UML](https://commons.wikimedia.org/wiki/File:StrategyPattern_IBrakeBehavior.svg#/media/File:StrategyPattern_IBrakeBehavior.svg)
+![Diagramme UML](https://upload.wikimedia.org/wikipedia/commons/4/4b/StrategyPattern_IBrakeBehavior.svg)
 
 Dans le patron de conception Stratégie, vous créez une interface commune pour toutes les stratégies possibles, décrivant ainsi un ensemble de comportements interchangeables. Ensuite, vous implémentez chaque stratégie spécifique en créant des classes qui implémentent cette interface. Enfin, dans votre programme principal, vous instanciez la stratégie appropriée et l'injectez dans le contexte où le comportement est nécessaire, permettant ainsi une gestion flexible des algorithmes.
 
