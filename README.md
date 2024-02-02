@@ -32,7 +32,7 @@
 
 ## Iterator : (14/23)
 
-## Mediator : (15/23)
+## ~~Mediator : Hugo (15/23)~~
 
 ## Memento : (16/23)
 
@@ -42,7 +42,7 @@
 
 ## ~~Proxy : Yannick (19/23)~~
 
-## State Evhan: (20/23)
+## ~~State : Evhan (20/23)~~
 
 ## ~~Strategy : Hugo (21/23)~~
 
