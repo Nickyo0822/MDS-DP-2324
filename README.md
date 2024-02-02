@@ -31,7 +31,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## ~~Commande : Evhan (8/23)~~
 
-## Composite : (9/23)
+## ~~Composite : Maxence (9/23)~~
 
 ## ~~Décorateur : Yannick (10/23)~~
 
