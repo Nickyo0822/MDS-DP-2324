@@ -51,7 +51,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## Prototype : (18/23)
 
-## Proxy : (19/23)
+## ~~Proxy : Yannick (19/23)~~
 
 ## State : (20/23)
 
