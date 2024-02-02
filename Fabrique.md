@@ -1,7 +1,7 @@
-# Nom 
+## Nom 
 Fabrique
 
-# Description du problème :
+### Description du problème :
 
 Dans de nombreux cas, il est nécessaire de concevoir une classe capable d'instancier divers types d'objets en fonction de paramètres fournis. Par exemple, une usine peut être chargée de fabriquer différents produits en se basant sur le modèle spécifié. La solution la plus évidente serait d'écrire une série de conditions dans cette classe, où, selon le modèle demandé, l'objet correspondant serait instancié et renvoyé.
 
@@ -11,7 +11,7 @@ De plus, il est probable que l'instanciation des différents produits soit égal
 
 En résumé, la situation engendre un code fortement couplé, potentiellement répliqué en plusieurs endroits de l'application, ce qui compromet la flexibilité, la maintenance, et la gestion des évolutions futures.
 
-# Solution :
+### Solution :
 
 Le design pattern Fabrique propose de substituer les appels directs au constructeur d'un objet (utilisant l'opérateur new) en faveur d'une méthode fabrique spéciale. Bien que les objets soient toujours créés à l'aide de l'opérateur new, cet appel est désormais encapsulé à l'intérieur de la méthode fabrique. Les objets ainsi générés sont couramment appelés "produits".
 
@@ -25,7 +25,7 @@ Lorsque le code client appelle la méthode fabrique (fréquemment appelé le cod
 
 ![Diagramme UML](https://refactoring.guru/images/patterns/diagrams/factory-method/solution1.png?id=fc756d2af296b5b4d482e548214d08ef)
 
-# Exemple (php) :
+### Exemple (php) :
 
 Le patron Factory peut être utilisé dans des applications de divers langages de programmation. Les exemples les plus connus sont Java, JavaScript, C++, C#, Python et PHP. Ce dernier langage de script est également utilisé dans l'exemple pratique suivant, qui est basé sur un article du blog Phpmonkeys.
 
@@ -61,6 +61,6 @@ class CarFactory {
 	}
 }
 
-# Conséquences :
+### Conséquences :
 
 Les avantages de l'utilisation du pattern Décorateur incluent la flexibilité, la réutilisabilité et l'extensibilité. Il permet d'ajouter ou de supprimer des fonctionnalités de manière dynamique, de réutiliser le code existant sans le modifier, et d'ajouter de nouveaux décorateurs sans altérer les classes existantes. Cependant, des inconvénients tels qu'une complexité accrue, une éventuelle redondance, et la sensibilité à l'ordre des décorateurs doivent être pris en compte lors de son utilisation.
