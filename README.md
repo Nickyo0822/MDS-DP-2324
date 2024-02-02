@@ -28,7 +28,7 @@
 
 ## ~~Flyweight : Hugo (12/23)~~
 
-## Interpreter : (13/23)
+## Interpreter : Evhan(13/23)
 
 ## Iterator : (14/23)
 
