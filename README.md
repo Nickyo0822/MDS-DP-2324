@@ -23,7 +23,7 @@ Il aide à comprendre l’utilisation et la logique de chaque patron. Un aspect 
 
 ## ~~Adaptateur : Hugo (4/23)~~
 
-## ~~Pont : Maxence (5/23)~~
+## Pont : (5/23)
 
 ## ~~Monteur : Maxence (6/23)~~
 
