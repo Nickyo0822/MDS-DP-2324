@@ -24,7 +24,7 @@
 
 ## ~~Décorateur : Yannick (10/23)~~
 
-## Façade : (11/23)
+## Façade : Maxence (11/23)
 
 ## ~~Flyweight : Hugo (12/23)~~
 
