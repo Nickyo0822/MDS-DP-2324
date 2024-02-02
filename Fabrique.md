@@ -23,7 +23,7 @@ Par exemple, les classes Camion et Bateau doivent toutes deux implémenter l'int
 
 Lorsque le code client appelle la méthode fabrique (fréquemment appelé le code client), il ne distingue pas entre les différents produits concrets renvoyés par les sous-classes ; il les considère tous comme des Transports abstraits. Le client sait simplement que tous les objets transportés sont censés posséder une méthode livrer, sans se préoccuper de leurs particularités de fonctionnement.
 
-https://refactoring.guru/images/patterns/diagrams/factory-method/solution1.png?id=fc756d2af296b5b4d482e548214d08ef
+![Diagramme UML](https://refactoring.guru/images/patterns/diagrams/factory-method/solution1.png?id=fc756d2af296b5b4d482e548214d08ef)
 
 # Exemple (php) :
 
